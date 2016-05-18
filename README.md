@@ -1,3 +1,7 @@
+# Fork overview
+
+This fork simply adds a master branch (based off of storage-master) which is required for our plugins fetching code.
+
 # Cordova/PhoneGap sqlite storage adapter
 
 Native interface to sqlite in a Cordova/PhoneGap plugin for Android, iOS, and Windows, with API similar to HTML5/[Web SQL API](http://www.w3.org/TR/webdatabase/).
